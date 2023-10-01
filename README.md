@@ -7,3 +7,6 @@ This app helps generate a name for your group or band.
 * Ask the user for the name of a pet.
 * Combine the name of their city and pet and show them their band name.
 * Make sure the input cursor shows on a new line.
+## Software/ Tools
+* Python
+* Visual Studio Code
